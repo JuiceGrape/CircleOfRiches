@@ -1,0 +1,105 @@
+{
+	"name": "All or Nothing",
+	"segments": [
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"color": "black"
+		},
+		{
+			"type": "value",
+			"value": 5000,
+			"color": "silver"
+		}
+	]
+}

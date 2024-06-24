@@ -1,0 +1,125 @@
+{
+	"name": "Default Wheel",
+	"segments": [
+		{
+			"type": "value",
+			"value": 5000,
+			"image": "5000"
+		},
+		{
+			"type": "value",
+			"value": 500,
+			"image": "500Green"
+		},
+		{
+			"type": "value",
+			"value": 900,
+			"image": "900Yellow"
+		},
+		{
+			"type": "value",
+			"value": 700,
+			"image": "700Red"
+		},
+		{
+			"type": "value",
+			"value": 600,
+			"image": "600Blue"
+		},
+		{
+			"type": "value",
+			"value": 650,
+			"image": "650Orange"
+		},
+		{
+			"type": "value",
+			"value": 500,
+			"image": "500Purple"
+		},
+		{
+			"type": "value",
+			"value": 700,
+			"image": "700Yellow"
+		},
+		{
+			"type": "value",
+			"value": 500,
+			"image": "500Pink"
+		},
+		{
+			"type": "value",
+			"value": 600,
+			"image": "600Red"
+		},
+		{
+			"type": "value",
+			"value": 550,
+			"image": "550Blue"
+		},
+		{
+			"type": "value",
+			"value": 500,
+			"image": "500Green"
+		},
+		{
+			"type": "value",
+			"value": 600,
+			"image": "600Pink"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"image": "Bankrupt"
+		},
+		{
+			"type": "value",
+			"value": 650,
+			"image": "650Purple"
+		},
+		{
+			"type": "value",
+			"value": 850,
+			"image": "850Yellow"
+		},
+		{
+			"type": "value",
+			"value": 700,
+			"image": "700Blue"
+		},
+		{
+			"type": "loseTurn",
+			"value": 0,
+			"image": "LoseTurn"
+		},
+		{
+			"type": "value",
+			"value": 800,
+			"image": "800Red"
+		},
+		{
+			"type": "value",
+			"value": 500,
+			"image": "500Purple"
+		},
+		{
+			"type": "value",
+			"value": 650,
+			"image": "650Pink"
+		},
+		{
+			"type": "value",
+			"value": 500,
+			"image": "500Green"
+		},
+		{
+			"type": "value",
+			"value": 900,
+			"image": "900Orange"
+		},
+		{
+			"type": "bankrupt",
+			"value": 0,
+			"image": "Bankrupt"
+		}
+	]
+}
